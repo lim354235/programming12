@@ -21,5 +21,8 @@
     <ClCompile Include="week2lab.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ex0813a.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
